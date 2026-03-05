@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="GTM Audit Tool Banner" width="100%" />
+</p>
+
 # GTM Audit Tool for Claude Code
 
 An AI-powered Go-To-Market audit tool that analyzes any B2B company's GTM strategy using 5 parallel AI agents. Built as a set of Claude Code skills.
